@@ -1,3 +1,4 @@
 var x = 'your config';
-var version = 10;
+var version = 11;
+var newConfig = 'yes!';
 console.log('Hello world! Testing SuperWebApp shared infrastracture - ' + version + ' - ' + x);
