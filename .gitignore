@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# psm
+.gitpsm/
+psm.sh
