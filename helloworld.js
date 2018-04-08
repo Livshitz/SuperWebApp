@@ -1,2 +1,3 @@
 var x = 'your config';
-console.log('Hello world! Testing SuperWebApp shared infrastracture - v4 - ' + x);
+var version = 5;
+console.log('Hello world! Testing SuperWebApp shared infrastracture - ' + version + ' - ' + x);
